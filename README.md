@@ -3,6 +3,8 @@ This Repo is for the Mentorship of Data Science &amp; Machine Learning, All necc
 
 **UPDATES**
 * First Session is added to `Session-1` Folder
+* You will find PDFs for python basics revision on `Assets/Python-Revision`
+* For those who are Python Beginners, you can find your sheets on `Assets/Sheets`
 
 **Adds-on**
 * For Python-Revision, you could take an exercise test on that link [Python Revision - Test](https://forms.gle/iURCy8VtyPYVTF1t6)
