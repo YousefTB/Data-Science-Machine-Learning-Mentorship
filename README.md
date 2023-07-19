@@ -2,7 +2,7 @@
 This Repo is for the Mentorship of Data Science &amp; Machine Learning, All neccessary files will exist here
 
 **UPDATES**
-* First Session is added to `Session-1` Folder
+* First Session is added to `[Session-1](https://github.com/YousefTB/Data-Science-Machine-Learning-Mentorship/tree/main/Session-1)` Folder
 * Second Session is added to `Session-2` Folder
 * You will find PDFs for python basics revision on `Assets/Python-Revision` also you can find some helpful pdf from **Huawei** that you could take on `Assets/Python-Revision/Huawei-Python`
 * For those who are Python Beginners, you can find your sheets on `Assets/Sheets`
